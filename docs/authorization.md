@@ -21,7 +21,7 @@
 "client_secret":"полученный_client_secret",
 "username":"полученный_username",
 "password":"полученный_password"
-"grant_type" :"password"
+"grant_type":"password"
 }
 ```
 
