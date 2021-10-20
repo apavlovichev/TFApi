@@ -13,7 +13,7 @@
 
 `{{talentforce.url}}/Api/access_token`
 
-В *Body* передать:
+Тело запроса необходимо передавать в стандартном application/x-www-form-urlencoded с указанием соответствующего заголовка Content-Type:
 
 ```json
 {
@@ -24,7 +24,7 @@
 "grant_type":"password"
 }
 ```
-Тело запроса необходимо передавать в стандартном application/x-www-form-urlencoded с указанием соответствующего заголовка Content-Type
+
 
 **Пример ответа**
 
