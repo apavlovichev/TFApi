@@ -1,5 +1,6 @@
 # Вакансии
 
+Используется стандартное [API Suite CRM](https://docs.suitecrm.com/developer/api/developer-setup-guide/)
 
 ## Получение списка наименований вакансий
 
