@@ -18,7 +18,7 @@
 * Необходимые параметры для всех запросов:
 `entryPoint : JiraQuestionnaireEntrypoint`
 
-<a name="get_vacancy_names"></a>
+<a name="get_quest_list"></a>
 ## Получение списка вопросов
 
 * **Запрос**
