@@ -3,8 +3,8 @@
 Используется стандартное [API Suite CRM](https://docs.suitecrm.com/developer/api/developer-setup-guide/)
 1.  [Получение списка наименований вакансий](#get_vacancy_names)
 2.  [Создание наименования вакансии](#create_vacancy_name)
-3.  [Получение user ID из user_name](errors.md#user-agent)
-4.  [Создание вакансии](errors.md#user-agent)
+3.  [Получение user ID из user_name](#get_user_id)
+4.  [Создание вакансии](#create_vacancy)
 
 <a name="get_vacancy_names"></a>
 ## Получение списка наименований вакансий
@@ -129,7 +129,7 @@
     }
 }
 ```
-
+<a name="get_user_id"></a>
 #### Получение user ID из user_name
 
 * **Запрос**
@@ -218,7 +218,7 @@ filter[user_name][eq] : {{user_name}}
 }
 ```
 
-
+<a name="create_vacancy"></a>
 #### Создание вакансии
 
 * **Запрос**
