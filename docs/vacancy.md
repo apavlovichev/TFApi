@@ -1,6 +1,11 @@
 # Вакансии
 
 Используется стандартное [API Suite CRM](https://docs.suitecrm.com/developer/api/developer-setup-guide/)
+1.  [Получение списка наименований вакансий](errors.md#user-agent)
+2.  [Создание наименования вакансии](errors.md#user-agent)
+3.  [Получение user ID из user_name](errors.md#user-agent)
+4.  [Создание вакансии](errors.md#user-agent)
+
 
 ## Получение списка наименований вакансий
 
