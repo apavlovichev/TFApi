@@ -17,11 +17,11 @@
 
 ```json
 {
-"client_id":"полученный_client_id",
-"client_secret":"полученный_client_secret",
-"username":"полученный_username",
-"password":"полученный_password"
-"grant_type":"password"
+    "grant_type":"password",
+    "client_id":"{{Client_ID}}",
+    "client_secret":"{{client_secret}}",
+    "username":"{{Username}}",
+    "password":"{{Password}}"
 }
 ```
 Тело запроса необходимо передавать в стандартном application/x-www-form-urlencoded с указанием соответствующего заголовка Content-Type:
