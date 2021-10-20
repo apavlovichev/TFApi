@@ -6,7 +6,7 @@
 
 Предварительно необходимо [зарегистрировать](https://talentforce.ru/) приложение.
 
-Добавить в запрос [access_token](docs/authorization.md).
+Добавить в запрос  [Авторизация](docs/authorization.md)
 
 
 
