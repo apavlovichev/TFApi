@@ -66,7 +66,7 @@
 {
     "token": "{{token}}",
 
-    "external_jira_id": "external_jira_id",
+    "external_jira_id": "номер задачи в jira",
 
     "lkk_candidate_questionnaire": {
         "date_entered": "2021-06-22 08:46:00",
