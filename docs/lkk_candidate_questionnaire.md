@@ -70,7 +70,7 @@
 
     "lkk_candidate_questionnaire": {
         "date_entered": "2021-06-22 08:46:00",
-        "id": "в случае создания id анкеты, в случае обновления номер задачи в jira",
+        "id": "в случае создания - id анкеты, в случае обновления - номер задачи в jira",
         "layout_form": "main_job",
         "responsible_hr_email": "test@mail.ru",
         "responsible_hr_name": "Username",
