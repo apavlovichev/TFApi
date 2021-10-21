@@ -155,7 +155,7 @@
 {
     "token": "{{token}}",
 
-    "external_jira_id": "external_jira_id",
+    "external_jira_id": "номер задачи в jira",
     
     "parent_id": "идентификатор анкеты, если есть",
     "parent_type": "LKK_CANDIDATE_QUESTIONNAIRE",
